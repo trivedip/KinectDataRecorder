@@ -1,0 +1,171 @@
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.dll
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Face.dll
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Fusion.dll
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Tools.dll
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.xml
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Face.xml
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Fusion.xml
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Tools.xml
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\LightBuzz.Vitruvius.xml
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\LightBuzz.Vitruvius.xml
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\priya\Desktop\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\LightBuzz.Vitruvius.xml
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\kamrad\Desktop\New folder\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\LightBuzz.Vitruvius.xml
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\pgt6\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\LightBuzz.Vitruvius.xml
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.manifest
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.application
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe.manifest
+C:\Users\Priyank\Downloads\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.application
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\LightBuzz.Vitruvius.xml
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\KinectDataRecorder.exe.config
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\KinectDataRecorder.exe.manifest
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\KinectDataRecorder.application
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\KinectDataRecorder.exe
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\bin\Debug\KinectDataRecorder.pdb
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\obj\Debug\KinectDataRecorder_MarkupCompile.cache
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\obj\Debug\KinectDataRecorder.g.resources
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\obj\Debug\KinectDataRecorder.Properties.Resources.resources
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\obj\Debug\KinectDataRecorder.exe.manifest
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\obj\Debug\KinectDataRecorder.application
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\obj\Debug\KinectDataRecorder.exe
+C:\Users\Priyank\Desktop\WpfApplication2\WpfApplication2\obj\Debug\KinectDataRecorder.pdb
