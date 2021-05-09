@@ -38,10 +38,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Kinect Data Recorder Allows Storage and Visualization of Kinect V2 Streams
+Kinect Data Recorder Allows Storage and Visualization of all available Kinect V2 Streams to your computer for later use. It also has UI where you can visualize all the steams in realtime.
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -60,15 +57,13 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 Microsoft Visual Studio Community Edition
+.Net 4.5
 Kinect V2 Sensor
 Laptop/ Desktop with SSD preffered
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-
-
 
 
 
@@ -108,7 +103,7 @@ Project Link: [https://github.com/trivedip/KinectDataRecorder](https://github.co
 
 
 ## Author
-[![contributors-shield]] Priyank Trivedi
+Priyank Trivedi
 
 
 <!-- ACKNOWLEDGEMENTS -->
