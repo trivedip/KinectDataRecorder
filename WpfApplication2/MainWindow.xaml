@@ -1,0 +1,115 @@
+﻿<Window x:Class="KinectRecord.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kinect Data Recorder - Texas State University" 
+        Height="800" Width="1500" 
+        Loaded="MainWindow_Loaded"
+        Closing="MainWindow_Closing">
+    <Window.Resources>
+        <SolidColorBrush x:Key="MediumGreyBrush" Color="#ff6e6e6e" />
+        <SolidColorBrush x:Key="KinectPurpleBrush" Color="#ff52318f" />
+        <SolidColorBrush x:Key="KinectBlueBrush" Color="#ff00BCF2" />
+
+    </Window.Resources>
+    <!--Outline the window features. State the window size and load resource. -->
+
+    <!-- Generate the grid layout-->
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="25*"/>
+            <!--  Remove the number before * to make it adaptible to content.  -->
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="50*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="7.7*"/>
+
+            <RowDefinition Height="0.4*"/>
+        </Grid.RowDefinitions>
+
+        <!--The controls to handle recording-->
+        <DockPanel Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="1"  >
+            <StackPanel Margin="10,0,0,0" >
+            <Label Content="Stream Settings" FontSize="18" FontWeight="Bold" VerticalAlignment="Top" />
+            <Label  Content="Select which streams to record: " FontSize="14" />
+            <CheckBox x:Name="rgbCheck" Content="Record RGB Stream" ToolTip="Enable storage of RGB Stream of Kinect V2."/>
+            <CheckBox x:Name="depthCheck" Content="Record Depth Stream"  ToolTip="Enable storage of DepthMap Stream of Kinect V2."/>
+            <CheckBox x:Name="skelCheck" Checked="skelCheck_Checked" Unchecked="skelCheck_Unchecked" Content="Record Skeleton Coordinates"  ToolTip="Enable storerage of body join skeleton data (3D) in a text file." />
+            <CheckBox x:Name="handLass" Content="Record Palm Status"  ToolTip="If 'Record Skeleton Coordinates' is enabled, this will add palm open/ close information with 3D coordinates." Visibility="Hidden"></CheckBox>
+            
+            </StackPanel>
+        </DockPanel>
+        <DockPanel Grid.Row="0" Grid.Column="1"  >
+            <StackPanel >
+                <Label Content="Other Settings: " FontSize="18" FontWeight="Bold" VerticalAlignment="Top"/>
+                <CheckBox x:Name="performance" Content="Disable Preview"  Unchecked="performance_Unchecked" Checked="performance_Checked" ToolTip="Will disable preview of RGB and Depth Map Steam on the app, this is done to reserve the memory resources of the application which can be distrubuted to stream buffers."/>
+                <CheckBox x:Name="record_length_check" Content="Specify Length Of Recording" Checked="record_length_check_Checked" Unchecked="record_length_check_Unchecked"></CheckBox>
+                <StackPanel x:Name="recording_length_panel" Orientation="Horizontal" Visibility="Hidden">
+                    <Label  Content="Pre-Define Recording Length:" ToolTip="Specify how long you want to record Kinect data after you press 'Record' Button in Seconds. Leave empty to record until record button is pressed again." VerticalAlignment="Center"/>
+                    <TextBox x:Name="recLength" MinWidth="50px" Height="18px" VerticalAlignment="Center"/>
+                    <Label VerticalAlignment="Center" Content="Seconds"></Label>
+                </StackPanel>
+            </StackPanel>
+        </DockPanel>
+        <DockPanel Grid.Row="0" Grid.Column="2">
+            <StackPanel HorizontalAlignment="Right">
+                <Label Content="Recording Controls" FontSize="18" FontWeight="Bold" HorizontalAlignment="Left"/>
+                <Label Content="Start/Stop" FontSize="14"  HorizontalAlignment="Left"/>
+                <Button x:Name="startRec" Content="Record" Width="100px" Cursor="Arrow" HorizontalAlignment="Left" Margin="5,0,0,0"/>
+                
+                <Label x:Name="recLabelLen" Height="186"  >
+                    <StatusBar x:Name="statusBarText" Height="100" Width="275" Background="#FFFFFEFE">
+                        <StatusBarItem x:Name="labelTimer" Content="Time Remaining:" Width="187" FontSize="18"  Visibility="Hidden"/>
+                        <StatusBarItem x:Name="countdownBox" Content="" Width="100" FontSize="20" Visibility="Hidden"/>
+                    </StatusBar>
+                </Label>
+            </StackPanel>
+
+            <!--<Grid>
+                <Image HorizontalAlignment="Center" Source="c:\users\kamrad\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\Logo.jpg" Width="328" Height="63" VerticalAlignment="Top" RenderTransformOrigin="0.551,1.377" Margin="27,25,-30.667,0" />
+            </Grid> -->
+            
+            
+        </DockPanel>
+        <DockPanel Grid.Row="0" Grid.Column="2" HorizontalAlignment="Right">
+            
+
+            
+
+
+
+        </DockPanel>
+
+        <!--RGB Viewier-->
+        <Viewbox Name="rgb_view" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" HorizontalAlignment="Center">
+            <Image Source="{Binding ImageRGB}" Stretch="UniformToFill" />
+        </Viewbox>
+
+        <Viewbox Name="skel_view" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+            <Image Source="{Binding imageSkel }" Stretch="UniformToFill" />
+        </Viewbox>
+        <!--Depth Viewier-->
+        <Viewbox Name="depth_view" Grid.Column="2" Grid.Row="1" HorizontalAlignment="Center">
+            <Image Source="{Binding ImageDepth}" Stretch="UniformToFill" />
+        </Viewbox>
+        <!--Status provider-->
+        <StatusBar Grid.Row="3" HorizontalAlignment="Stretch" Name="statusBar" VerticalAlignment="Bottom" Background="White" Foreground="{StaticResource MediumGreyBrush}">
+            <StatusBarItem Content="{Binding StatusText}" Width="500"/>
+            <StatusBarItem Content="{Binding StausRec}" Width="100" />
+
+        </StatusBar>
+        
+            <StackPanel  Grid.Column="0" Grid.Row="2">
+            <Label x:Name="label" Content="Texas State University |  Department of Computer Science." HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1"/>
+            </StackPanel>
+            <StackPanel Grid.Row="2" Grid.Column="2">
+                <Label x:Name="label2" Content="FPS:" HorizontalAlignment="Right"  Grid.Column="3" VerticalAlignment="Top" Margin="0,0,35,0" />
+                <!--<Label x:Name="angle_lbl" Content="angle:" HorizontalAlignment="Left" Margin="150,14.667,0,0" Grid.Row="2" VerticalAlignment="Top" Grid.ColumnSpan="2"/>-->
+                <!--<Label Content="Texas State University |  Department of Computer Science."   Margin="0,9.667,593.333,0" HorizontalAlignment="Center" Width="317" />-->
+            </StackPanel>
+        
+    </Grid>
+
+
+</Window>
