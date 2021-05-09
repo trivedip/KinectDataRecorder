@@ -33,6 +33,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Author](#author)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -97,7 +98,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Priyank Trivedi <!--  - [@your_twitter](https://twitter.com/your_username) >
+Priyank Trivedi <!--  - [@your_twitter](https://twitter.com/your_username) -->
 
 Project Link: [https://github.com/trivedip/KinectDataRecorder](https://github.com/trivedip/KinectDataRecorder)
 
