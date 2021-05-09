@@ -7,9 +7,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <!-- <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
   <h3 align="center">Kinect Data Recorder</h3>
 
@@ -90,21 +90,18 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
 ## Contact
-
-Priyank Trivedi <!--  - [@your_twitter](https://twitter.com/your_username) -->
-
+[Priyank Trivedi](https://priyanktrivedi.com)
 Project Link: [https://github.com/trivedip/KinectDataRecorder](https://github.com/trivedip/KinectDataRecorder)
 
 
 ## Author
-Priyank Trivedi
+[Priyank Trivedi](https://priyanktrivedi.com)
 
 
 <!-- ACKNOWLEDGEMENTS -->
