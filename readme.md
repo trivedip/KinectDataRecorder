@@ -75,7 +75,7 @@ Laptop/ Desktop with SSD preffered
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+This project is concluded and is no longer in development.
 
 
 
@@ -108,12 +108,13 @@ Project Link: [https://github.com/trivedip/KinectDataRecorder](https://github.co
 
 
 ## Author
-Priyank Trivedi
+[![contributors-shield]] Priyank Trivedi
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+* Patrick Ring (Contributed over V1 during his thesis)
 
 
 
