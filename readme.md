@@ -34,6 +34,7 @@
 - [License](#license)
 - [Contact](#contact)
 - [Author](#author)
+  - [Priyank Trivedi](#priyank-trivedi)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -97,11 +98,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 [Priyank Trivedi](https://priyanktrivedi.com)
+
 Project Link: [https://github.com/trivedip/KinectDataRecorder](https://github.com/trivedip/KinectDataRecorder)
 
 
 ## Author
-[Priyank Trivedi](https://priyanktrivedi.com)
+### [Priyank Trivedi](https://priyanktrivedi.com)
 
 
 <!-- ACKNOWLEDGEMENTS -->
