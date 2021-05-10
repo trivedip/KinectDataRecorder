@@ -59,9 +59,9 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 Microsoft Visual Studio Community Edition
-.Net 4.5
-Kinect V2 Sensor
-Laptop/ Desktop with SSD preffered
+.Net 4.5 <br/>
+Kinect V2 Sensor <br/>
+Laptop/ Desktop with SSD preffered <br/>
 
 
 <!-- USAGE EXAMPLES -->
