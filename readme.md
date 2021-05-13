@@ -111,7 +111,7 @@ Project Link: [https://github.com/trivedip/KinectDataRecorder](https://github.co
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-* Patrick Ring (Contributed over V1 during his thesis)
+* Patrick Ring (Helped in adding multi-threading V1, during his master's thesis)
 
 
 
