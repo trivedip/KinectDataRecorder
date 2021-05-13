@@ -58,9 +58,9 @@ Run the project in visual studio community edition in debugging mode.
 ### Prerequisites
 
 Microsoft Visual Studio Community Edition
-.Net 4.5
-Kinect V2 Sensor
-Laptop/ Desktop with SSD preffered
+.Net 4.5 <br/>
+Kinect V2 Sensor <br/>
+Laptop/ Desktop with SSD preffered <br/>
 
 
 <!-- USAGE EXAMPLES -->
