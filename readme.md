@@ -65,6 +65,7 @@ Laptop/ Desktop with SSD preffered <br/>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+![product-screenshot]
 Hit the record button in the UI, the data will be stored in C:/temp/
 
 
