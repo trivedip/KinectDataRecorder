@@ -105,13 +105,14 @@ Project Link: [https://github.com/trivedip/KinectDataRecorder](https://github.co
 
 
 ## Author
-### [Priyank Trivedi](https://priyanktrivedi.com)
+#### [Priyank Trivedi](https://priyanktrivedi.com)
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+* [Priyank Trivedi](https://priyanktrivedi.com) - Main Author & Developer
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-* Patrick Ring (Helped in adding multi-threading V1, during his master's thesis)
+* Patrick Ring (Helped in adding multi-threading in V1)
 
 
 
