@@ -18,6 +18,7 @@
   </p>
 </p>
 
+![product-screenshot]
 
 
 <!-- TABLE OF CONTENTS -->
@@ -65,8 +66,9 @@ Laptop/ Desktop with SSD preffered <br/>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-![product-screenshot]
-Hit the record button in the UI, the data will be stored in C:/temp/
+* Select the streams you wish to record in "Stream Settings"
+* Hit the record button in the UI, the data will be stored in C:/temp/
+* If you want to record for specific time, check the "specify recording time" options and a text box will appear, enter your desired time in seconds.
 
 
 <!-- ROADMAP -->
