@@ -11,7 +11,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">Kinect Data Recorder</h3>
+  <h3 align="center">Kinect Data Recorder V2</h3>
 
   <p align="center">
     A windows application to store all the data streams from Kinect V2 sensor to your SSD.
@@ -43,7 +43,7 @@
 Kinect Data Recorder Allows Storage and Visualization of all available Kinect V2 Streams to your computer for later use. It also has UI where you can visualize all the steams in realtime.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
 * [.Net 4.5](https://visualstudio.microsoft.com/vs/community/)
 * [WPF](https://visualstudio.microsoft.com/vs/community/)
 * [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/community/)
@@ -53,8 +53,7 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Run the project in visual studio community edition in debugging mode.
 
 ### Prerequisites
 
@@ -66,13 +65,13 @@ Laptop/ Desktop with SSD preffered
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
+Hit the record button in the UI, the data will be stored in C:/temp/
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-This project is concluded and is no longer in development.
+This project is concluded and is no longer in development. The V1 was released in 2015 (check KinectDataRecorderV1 branch). V2 was release in 2021, it includes UI overhaul, accessibility improvements and performance improvements.
 
 
 
@@ -120,4 +119,4 @@ Project Link: [https://github.com/trivedip/KinectDataRecorder](https://github.co
 [license-url]: https://github.com/trivedip/KinectDataRecorder/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/trivedipriyank
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: docs/kinect-v2-run.png
