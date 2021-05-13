@@ -121,5 +121,5 @@ Project Link: [https://github.com/trivedip/KinectDataRecorder](https://github.co
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/trivedip/KinectDataRecorder/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/trivedipriyank
+[linkedin-url]: https://www.linkedin.com/in/trivedipriyank
 [product-screenshot]: docs/kinect-v2-run.png
